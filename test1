@@ -1,0 +1,6 @@
+declare
+l_val varchar2(30);
+begin
+l_val='gaurav';
+dbms_output.put_line(l_val);
+end;
